@@ -89,3 +89,16 @@ th {
 .locations {
     list-style-type: none;
 }
+
+/*bonus*/
+
+.highlight {
+    color: rgb(255, 94, 0);
+}
+
+#holidays {
+    width: 100%;
+    height: min-content;
+    padding: 2px;
+    background-color: yellow;
+}
